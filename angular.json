@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "oblako-test-task-web"
+  "defaultProject": "oblako-test-task-web",
+  "cli": {
+    "analytics": "96c69acb-7f23-4ddd-8d36-857fa4e58622"
+  }
 }
