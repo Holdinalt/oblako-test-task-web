@@ -1,5 +1,3 @@
-# OblakoTestTaskWeb
-
 # Git
 + Server - https://github.com/Holdinalt/oblako-test-task
 + Web - https://github.com/Holdinalt/oblako-test-task2
