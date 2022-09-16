@@ -1,8 +1,8 @@
 # OblakoTestTaskWeb
 
 # Git
-Server - https://github.com/Holdinalt/oblako-test-task
-Web - https://github.com/Holdinalt/oblako-test-task2
++ Server - https://github.com/Holdinalt/oblako-test-task
++ Web - https://github.com/Holdinalt/oblako-test-task2
 
 # Heroku deploy
 Server - https://oblako-test-ask.herokuapp.com/graphql
